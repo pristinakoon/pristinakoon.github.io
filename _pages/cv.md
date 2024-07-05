@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Under construction. Coming soon.
+Under construction. Coming soon!

@@ -10,7 +10,8 @@ I am a Ph.D. student in the [University of Pennsylvania's Department of Linguist
 
 Outside of my work, I am an avid language learner! I speak French and Indonesian and took Korean courses in college. Research experinces have also exposed me to Jejueo, Malay, Betawi, and Cham. I am currently studying Filipino, Spanish, and Hokkien. 
 
-I can be reached at [pristina@sas.upenn.edu]. 
+I can be reached at pristina@sas.upenn.edu. 
 
 **How to pronounce my name**
+br/
 Although I was named after the [capital of Kosovo](https://www.britannica.com/place/Pristina), my parents adopted an Americanized pronunciation, and my first name pronounced [prɪˈstinə]/pris-teen-ah. My surname/family name is represented by the Chinese character [官](https://dictionary.writtenchinese.com/worddetail/guan/2600/1/1) and pronounced [guan]/ku-an. 

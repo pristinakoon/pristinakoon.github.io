@@ -10,4 +10,4 @@ Welcome! I am a Ph.D. student in the [University of Pennsylvania's Department of
 
 Outside of my work, I am an avid language learner! I speak French and Indonesian and took Korean courses in college. Research experinces have also exposed me to Jejueo, Malay, Betawi, and Cham. I am currently studying Filipino, Spanish, and Hokkien. 
 
-I can be reached at [pristina@sas.upenn.edu](mailto: pristina@sas.upenn.edu).
+I can be reached at [pristina@sas.upenn.edu].

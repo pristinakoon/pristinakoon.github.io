@@ -14,4 +14,4 @@ I can be reached at pristina[at]sas[dot]upenn[dot]edu or you can use this [link]
 
 **How to pronounce my name**
 ======
-Although I was named after the [capital of Kosovo](https://www.britannica.com/place/Pristina), my parents adopted an Americanized pronunciation, and my first name pronounced [prɪˈstinə]/pris-teen-ah. My surname/family name is represented by the Chinese character [官](https://dictionary.writtenchinese.com/worddetail/guan/2600/1/1) and pronounced [guan]/ku-an. 
+Although I was named after the [capital of Kosovo](https://www.britannica.com/place/Pristina), my parents adopted an Americanized pronunciation, and my first name pronounced [prɪˈstinə] or pris-teen-ah. My surname/family name is represented by the Chinese character [官](https://dictionary.writtenchinese.com/worddetail/guan/2600/1/1) and pronounced [guan] or ku-an. 

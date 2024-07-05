@@ -6,3 +6,8 @@ redirect_from:
   - /teaching/
   - /teaching.html
 ---
+**Primary Instructor**
+======
+
+**Teaching Assistant**
+======

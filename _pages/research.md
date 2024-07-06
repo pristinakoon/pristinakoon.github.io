@@ -14,5 +14,7 @@ My interest in language contact was intially sparked by my fascination on how mu
 * Trade/port languages
 * Language change & variation
 * Information structure
+* Endangered languages & language maintenance 
 * Language evolution
 * Language ecologies
+* Diasporic language use & diaspora language contact

@@ -8,10 +8,10 @@ redirect_from:
 ---
 I am a PhD student in the [University of Pennsylvania's Department of Linguistics](https://www.ling.upenn.edu/). Before coming to Penn, I graduated from the University of Michigan with a BA in [linguistics](https://lsa.umich.edu/linguistics) and [Asian studies (Southeast Asia submajor)](https://lsa.umich.edu/asian). My research interests are centered around language contact, specifically relating to Austronesian languages in Southeast Asia with an emphasis on morphology, clitics, and pronouns. 
 
-Outside of my work, I am an avid language learner! I speak French and Indonesian and took some Korean courses in college. Research experinces have also exposed me to Jejueo, Malay, Betawi, and Cham. I am currently studying Filipino, Spanish, and Hokkien. 
+Outside of my work, I am an avid language learner! I speak French and Indonesian and took some Korean courses in college. Research experiences have also exposed me to Jejueo, Malay, Betawi, and Cham. I am currently studying Filipino, Tagalog, Spanish, and Hokkien. 
 
 I can be best reached at pristina[at]sas[dot]upenn[dot]edu or you can use this [link](mailto:pristina@sas.upenn.edu). 
 
 ### **How to pronounce my name**
 
-Although I was named after the [capital of Kosova/o](https://www.britannica.com/place/Pristina), my parents adopted an Americanized pronunciation, and my first name pronounced [prɪˈstinə] or pris-teen-ah. My surname/family name is represented by the Chinese character [官](https://dictionary.writtenchinese.com/worddetail/guan/2600/1/1) and pronounced [guan] or ku-an. 
+Although I was named after the [capital of Kosova/o](https://www.britannica.com/place/Pristina), my parents adopted an Americanized pronunciation, and my first name is pronounced [prɪˈstinə] or pris-teen-ah. My surname/family name is represented by the Chinese character [官](https://dictionary.writtenchinese.com/worddetail/guan/2600/1/1) and pronounced [guan] or ku-an. 

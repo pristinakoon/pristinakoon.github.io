@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a [PhD student](https://www.ling.upenn.edu/people/pristina-koon) in the [University of Pennsylvania's Department of Linguistics](https://www.ling.upenn.edu/). Before coming to Penn, I graduated from the University of Michigan with a BA in [linguistics](https://lsa.umich.edu/linguistics) and [Asian studies (Southeast Asia submajor)](https://lsa.umich.edu/asian). My research interests are centered around language contact, specifically relating to Austronesian languages in Southeast Asia with an emphasis on morphology, clitics, and pronouns. 
 
-Outside of my work, I am an avid language learner! I speak French and Indonesian and took some Korean courses in college. Research experiences have also exposed me to Jejueo, Malay, Betawi, and Cham. I am currently studying Filipino, Tagalog, Spanish, and Hokkien. 
+Outside of my work, I am an avid language learner! I speak French and Indonesian and took some Korean courses in college. Research experiences have also exposed me to Jejueo, Malay, Betawi, and Cham. I am currently studying Filipino, Tagalog, Spanish, and Hokkien and dabbling in Irish.
 
 I can be best reached at pristina[at]sas[dot]upenn[dot]edu or you can use this [link](mailto:pristina@sas.upenn.edu). 
 

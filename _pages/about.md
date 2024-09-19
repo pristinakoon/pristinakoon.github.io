@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a [PhD student](https://www.ling.upenn.edu/people/pristina-koon) in the [University of Pennsylvania's Department of Linguistics](https://www.ling.upenn.edu/). Before coming to Penn, I graduated from the University of Michigan with a BA in [linguistics](https://lsa.umich.edu/linguistics) and [Asian studies (Southeast Asia submajor)](https://lsa.umich.edu/asian). My research interests are centered around language contact, specifically relating to Austronesian languages in Southeast Asia with an emphasis on contact-induced change of morphology. 
+I am a [PhD student](https://www.ling.upenn.edu/people/pristina-koon) in the [University of Pennsylvania's Department of Linguistics](https://www.ling.upenn.edu/). Before coming to Penn, I graduated from the University of Michigan with a BA in [linguistics](https://lsa.umich.edu/linguistics) and [Asian studies (Southeast Asia submajor)](https://lsa.umich.edu/asian). I am lucky to be co-advised by Professors Marlyse Baptista and David Embick as my research interests are centered around language contact with an emphasis on contact-induced change of morphology. I am specifically interested in creole and pidgin languages with Malay or Tagalog as a source language. 
 
 Outside of my work, I am an avid language learner! I speak French and Indonesian and took some Korean courses in college. Research experiences have also exposed me to Jejueo, Malay, Betawi, and Cham. I am currently studying Filipino and Tagalog (with some dabbling in Irish).  
 

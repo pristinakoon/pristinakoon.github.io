@@ -10,7 +10,7 @@ I am a [PhD student](https://www.ling.upenn.edu/people/pristina-koon) in the [Un
 
 Outside of my work, I am an avid language learner! I speak French and Indonesian and took some Korean courses in college. Research experiences have also exposed me to Jejueo, Malay, and Cham. I am currently studying Filipino and Tagalog (with some dabbling in Irish).  
 
-I can be best reached at pristina[at]sas[dot]upenn[dot]edu or you can use this [link](mailto:pristina@sas.upenn.edu). 
+I can be best reached at pristina[at]sas[dot]upenn[dot]edu, or you can use this [link](mailto:pristina@sas.upenn.edu). 
 
 ### **How to pronounce my name**
 

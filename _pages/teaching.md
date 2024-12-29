@@ -12,6 +12,6 @@ author_profile: true
 {% endfor %}
 
 ## Primary Instructor ## 
-- **University of Michigan** HONORS 135.007 - Language: Our greatest tool or deadliest obsession? (Fall 2023)
+- **[University of Michigan]** HONORS 135.007 - Language: Our greatest tool or deadliest obsession? (Fall 2023)
 
 ## Teaching Assistant ## 

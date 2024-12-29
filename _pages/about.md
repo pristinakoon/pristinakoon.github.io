@@ -18,3 +18,16 @@ I can be best reached at pristina[at]sas[dot]upenn[dot]edu, or you can use this 
 
 ## My Name ## 
 Although I was named after the [capital of Kosova/o](https://www.britannica.com/place/Pristina), my parents adopted an Americanized pronunciation, so my first name is pronounced [prɪˈstinə] or pris-teen-ah. My surname/family name is represented by the Chinese character [官](https://zh.wiktionary.org/zh-hans/%E5%AE%98). You can listen to the variations of its pronunciation [here](https://forvo.com/search/%E5%AE%98/), but the [Hakka](https://forvo.com/search/%E5%AE%98/hak/) one is the most applicable to my family.
+
+## Broad Research Interests ## 
+- Language contact
+- Mixed languages & creolistics
+- Diasporic language use & diasporic language contact
+- Urban language contact & linguistic diversity
+- Heritage languages & language learning
+- Areal linguistics
+- Trade & port languages
+- Language change & variation
+- Information structure
+- Endangered languages & language maintenance
+- Language evolution & language ecologies

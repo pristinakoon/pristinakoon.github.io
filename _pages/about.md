@@ -4,7 +4,6 @@ title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
 ---
 
 I am a first-year PhD student in the University of Pennsylvania's Department of Linguistics. I am affiliated with the Language Contact and Cognition Lab, XMorph Lab, and Cultural Evolution of Language Lab. My research interests are centered around language contact with an emphasis on contact-induced change of morphology, so I am lucky to be co-advised by Professors Marlyse Baptista and David Embick. I am specifically interested in morphological multifunctionality and innovation in creole and pidgin languages. My current work is focused most heavily on Betawi and diasporic Ambon Malay.

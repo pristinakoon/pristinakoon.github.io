@@ -91,6 +91,7 @@ author_profile: true
         }
     </style>
 </head>
+
 <body>
 
     <div class="container">
@@ -115,6 +116,93 @@ author_profile: true
             <p><iframe src="https://lang-map.mla.org/?_ga=2.214649363.588514765.1735268751-226279685.1735268751&l=Total_Lower_Undergraduate_Enrollments!%2CTotal_Upper_Undergraduate_Enrollments!%2CTotal_Undergraduate_Enrollments!%2CTotal_Graduate_Enrollments!%2CTotal_Institutional_Enrollments%2CPredominantPrimaryLesson%5B20%5D!%2Cpredominant_language_spoken_excl_english%5B20%5D!%2Cpredominant_language_spoken_excl_spanish_eng%5B20%5D%2Call_languages_other_engl_pct!%2Cother_unspecified_languages_pct!%2Cafrican_languages_pct!%2Carabic_pct!%2Carmenian_pct!%2Cchinese_pct!%2Cfrench_pct!%2Cfrench_creole_pct!%2Cgerman_pct!%2Cgreek_pct!%2Cgujarathi_pct!%2Chebrew_pct!%2Chindi_pct!%2Chmong_pct!%2Chungarian_pct!%2Citalian_pct!%2Cjapanese_pct!%2Ckorean_pct!%2Claotian_pct!%2Cmonkmer_pct!%2Cnavajo_pct!%2Cpersian_pct!%2Cpolish_pct!%2Cportugese_pct!%2Crussian_pct!%2Cscandanavian_pct!%2Cserbian_croatian_pct!%2Cspanish_pct!%2Ctagalog_pct!%2Cthai_pct!%2Curdu_pct!%2Cvietnamese_pct!%2Cyiddish_pct!%2Cother_asian_pct!%2Cother_indic_pct!%2Cother_indoeuropean_pct!%2Cother_pacificisland_pct!%2Cother_slavic_pct!%2Cother_naindigenous_pct!%2Cother_westgermanic_pct!%2Call_languages_other_engl_cnt!%2Cother_unspecified_languages_cnt!%2Cafrican_languages_cnt!%2Carabic_cnt!%2Carmenian_cnt!%2Cchinese_cnt!%2Cfrench_cnt!%2Cfrench_creole_cnt!%2Cgerman_cnt!%2Cgreek_cnt!%2Cgujarathi_cnt!%2Chebrew_cnt!%2Chindi_cnt!%2Chmong_cnt!%2Chungarian_cnt!%2Citalian_cnt!%2Cjapanese_cnt!%2Ckorean_cnt!%2Claotian_cnt!%2Cmonkmer_cnt!%2Cnavajo_cnt!%2Cpersian_cnt!%2Cpolish_cnt!%2Cportugese_cnt!%2Crussian_cnt!%2Cscandanavian_cnt!%2Cserbian_croatian_cnt!%2Cspanish_cnt!%2Ctagalog_cnt!%2Cthai_cnt!%2Curdu_cnt!%2Cvietnamese_cnt!%2Cyiddish_cnt!%2Cother_asian_cnt!%2Cother_indic_cnt!%2Cother_indoeuropean_cnt!%2Cother_pacificisland_cnt!%2Cother_slavic_cnt!%2Cother_naindigenous_cnt!%2Cother_westgermanic_cnt!&bl=mapnik&t=qgis_mapserv.fcgi&c=-9853392%2C4916100&s=20000000" width="400" height="300" frameborder="0" allowfullscreen></iframe></p>
         </div>
     </div>
+
+
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Click-based Dropdown</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        /* Style the navigation bar */
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            background-color: #333;
+            overflow: hidden;
+        }
+
+        li {
+            float: left;
+            position: relative;
+        }
+
+        li a {
+            display: block;
+            padding: 14px 20px;
+            color: white;
+            text-decoration: none;
+            background-color: #333;
+        }
+
+        li a:hover {
+            background-color: #575757;
+        }
+
+        /* Dropdown container */
+        li ul {
+            display: none;
+            position: absolute;
+            top: 100%;
+            left: 0;
+            min-width: 160px;
+            background-color: #333;
+            box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+        }
+
+        li ul li a {
+            padding: 12px;
+            background-color: #333;
+        }
+
+        li ul li a:hover {
+            background-color: #575757;
+        }
+    </style>
+</head>
+<body>
+
+    <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#" onclick="toggleDropdown(event)">Services</a>
+            <ul>
+                <li><a href="#">Web Development</a></li>
+                <li><a href="#">App Development</a></li>
+                <li><a href="#">SEO</a></li>
+            </ul>
+        </li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Contact</a></li>
+    </ul>
+
+    <script>
+        // Function to toggle the dropdown visibility
+        function toggleDropdown(event) {
+            var dropdown = event.target.nextElementSibling;
+            if (dropdown.style.display === "block") {
+                dropdown.style.display = "none";
+            } else {
+                dropdown.style.display = "block";
+            }
+        }
+    </script>
 
 </body>
 </html>

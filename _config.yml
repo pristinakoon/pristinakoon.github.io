@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : "Pristina Koon"
 description              : "Linguistics PhD student"
 url                      : https://pristinakoon.com
-baseurl                  : &baseurl
+baseurl                  : "" 
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.

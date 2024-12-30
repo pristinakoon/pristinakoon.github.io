@@ -11,6 +11,6 @@ A linguist's work is only made possible through the incredible resources provide
 
 ## [WikiTongues](https://wikitongues.org/) ## 
 
-## [Lembaga Kebudayaan Betawi] (https://www.kebudayaanbetawi.com/) ##
+## [Lembaga Kebudayaan Betawi](https://www.kebudayaanbetawi.com/) ##
 
 ## [Museum Maluku](https://museum-maluku.nl/) ## 

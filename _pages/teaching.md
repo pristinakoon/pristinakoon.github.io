@@ -2,6 +2,7 @@
 layout: archive
 title: "Teaching"
 permalink: /teaching/
+
 ---
 
 {% include base_path %}

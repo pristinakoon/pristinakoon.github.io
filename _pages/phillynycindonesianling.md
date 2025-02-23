@@ -1,6 +1,6 @@
 ---
-permalink: /
-title: "Indonesia Diasporic Language Contact in Philadelphia and New York City"
+permalink: /idlic/
+title: "Indonesia Diaspora Languages in Contact"
 author_profile: true
 redirect_from: 
   - /id/

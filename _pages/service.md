@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Service, Resources, & Community Partners"
 permalink: /service/
 

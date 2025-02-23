@@ -13,7 +13,7 @@ The ELA focuses on preserving endangered languages in NYC's diverse language eco
 ## [WikiTongues](https://wikitongues.org/) ## 
 WikiTongues maintains an impressive archive of endangered languages and strives towards their revitalization. (See their videos  on Ambon Malay [here](https://wikitongues.org/videos/nila_20150321_abs/)!)
 
-## [Gapura Philly](https://www.gapuraphilly.org/)## 
+## [Gapura Philly](https://www.gapuraphilly.org/) ## 
 Gapura Philly is a non-profit focused on serving the Indonesian community in Philadelphia. 
 
 ## [University of Michigan Language Resource Center](https://lsa.umich.edu/lrc) ##

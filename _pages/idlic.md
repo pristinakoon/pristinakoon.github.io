@@ -1,6 +1,6 @@
 ---
 permalink: /idlic/
-title: "Indonesia Diaspora Languages in Contact"
+title: "Indonesia Diaspora Languages in Contact (IDLIC Project)"
 author_profile: true
 redirect_from: 
   - /

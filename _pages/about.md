@@ -20,7 +20,8 @@ Although I was named after the [capital of Kosova/o](https://www.britannica.com/
 
 ## Broad Research Interests ## 
 - Language contact
-- Mixed languages & creolistics
+- Bi/multilingualism
+- Mixed languages & Creolistics
 - Diasporic language use & diasporic language contact
 - Urban language contact & linguistic diversity
 - Heritage languages & language learning

@@ -14,13 +14,13 @@ I can be best reached at pristina[at]sas[dot]upenn[dot]edu, or you can use this 
 - Presentation at SLE 58: Expansion of Betawi ber--nya Nominaliation Under Prolonged Contact with Indonesian. Presentation at SLE 58 (Workshop 13: Morphological Boundaries in Creole Languages), 26-29 August 2025, Bordeaux, France.
 - Presentation at SEALS 34: Pristina Koon. Comparing the pronominal paradigms of two Malayophone Creoles – Manado Malay and Betawi. Paper to be presented at the Annual Meeting of the Southeast Asian Linguistics Society (SEALS 34), 10-13 June 2025, Bali, Indonesia (Virtual talk). 
 
-## My Name ## 
-Although I was named after the [capital of Kosova/o](https://www.britannica.com/place/Pristina), my parents adopted an Americanized pronunciation, so my first name is pronounced [prɪˈstinə] or pris-teen-ah. My surname/family name is represented by the Chinese character [官](https://zh.wiktionary.org/zh-hans/%E5%AE%98). You can listen to the variations of its pronunciation [here](https://forvo.com/search/%E5%AE%98/), but the [Hakka](https://forvo.com/search/%E5%AE%98/hak/) one is the most applicable to my family.
-
-## Broad Research Interests ## 
+## Research Interests ## 
 - Language contact
 - Bi/multilingualism
 - Distributed Morphology
 - Morphological processing
 - Mixed languages & Creolistics
 - Diasporic language use & diasporic language contact
+
+## My Name ## 
+Although I was named after the [capital of Kosova/o](https://www.britannica.com/place/Pristina), my parents adopted an Americanized pronunciation, so my first name is pronounced [prɪˈstinə] or pris-teen-ah. My surname/family name is represented by the Chinese character [官](https://zh.wiktionary.org/zh-hans/%E5%AE%98). You can listen to the variations of its pronunciation [here](https://forvo.com/search/%E5%AE%98/), but the [Hakka](https://forvo.com/search/%E5%AE%98/hak/) one is the most applicable to my family.

@@ -1,12 +1,8 @@
 ---
-title: "Service, Resources, & Community Partners"
+title: "Community Partners"
 permalink: /service/
 author_profile: false
----
-A linguist's work is only made possible through the incredible resources provided by community partners and the time, effort, and relationships given graciously by speaker communities. On this page you will find some resources and community partners (alphabetical order) I rely on heavily, admire, or have worked with. Please be sure to learn more about them! 
-
-## [Endangered Language Alliance](https://www.elalliance.org/) ##
-The ELA focuses on preserving endangered languages in NYC's diverse language ecology. They engage in community-centered events and have worked with languages from all over the globe. 
+--- 
 
 ## [Gapura Philly](https://www.gapuraphilly.org/) ## 
 Gapura Philly is a non-profit focused on serving the Indonesian community in Philadelphia. 

@@ -11,8 +11,9 @@ author_profile: false
   {% include archive-single.html %}
 {% endfor %}
 
-# Primary Instructor # 
-## University of Michigan ##
-- HONORS 135.007 - Language: Our greatest tool or deadliest obsession? (Fall 2023)
+##University of Pennsylvania##
+- LING 0600 - Introduction to Sociolinguistics (Spring 2026, teaching assistant for Professor Meredith Tamminga)
 
-# Teaching Assistant #
+##University of Michigan##
+- HONORS 135.007 - Language: Our greatest tool or deadliest obsession? (Fall 2023, primary instructor)
+

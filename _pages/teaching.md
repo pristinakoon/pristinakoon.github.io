@@ -11,9 +11,9 @@ author_profile: false
   {% include archive-single.html %}
 {% endfor %}
 
-##University of Pennsylvania##
+__University of Pennsylvania__
 - LING 0600 - Introduction to Sociolinguistics (Spring 2026, teaching assistant for Professor Meredith Tamminga)
 
-##University of Michigan##
+__University of Michigan__
 - HONORS 135.007 - Language: Our greatest tool or deadliest obsession? (Fall 2023, primary instructor)
 

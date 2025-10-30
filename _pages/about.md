@@ -11,8 +11,8 @@ I am a [PhD student](https://www.ling.upenn.edu/people/pristina-koon) in the [Un
 I can be best reached at pristina[at]sas[dot]upenn[dot]edu, or you can use this [link](mailto:pristina@sas.upenn.edu). 
 
 ## Upcoming & Recent Events ## 
-- Presentation at SLE 58: Expansion of Betawi ber--nya Nominaliation Under Prolonged Contact with Indonesian. Presentation at SLE 58 (Workshop 13: Morphological Boundaries in Creole Languages), 26-29 August 2025, Bordeaux, France.
-- Presentation at SEALS 34: Pristina Koon. Comparing the pronominal paradigms of two Malayophone Creoles – Manado Malay and Betawi. Paper to be presented at the Annual Meeting of the Southeast Asian Linguistics Society (SEALS 34), 10-13 June 2025, Bali, Indonesia (Virtual talk). 
+- Poster at NWAV 53: Variation and Contact-Induced Change in Manado Possessives: What can varying syntactic judgements tell us about multilinguals' grammars?. Poster at NWAV 53, 5-7 November 2025, University of Michigan Ann Arbor, France. 
+- Presentation at SLE 58: Expansion of Betawi ber--nya Nominaliation Under Prolonged Contact with Indonesian. Presentation at SLE 58 (Workshop 13: Morphological Boundaries in Creole Languages), 26-29 August 2025, Université Bordeaux Montaigne, Bordeaux, France.
 
 ## Research Interests ## 
 - Language contact

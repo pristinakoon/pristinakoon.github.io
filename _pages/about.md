@@ -19,6 +19,7 @@ I can be best reached at pristina[at]sas[dot]upenn[dot]edu, or you can use this 
 - Bi/multilingualism
 - Distributed Morphology
 - Morphological processing
+- Experimental morphosyntax 
 - Mixed languages & Creolistics
 - Diasporic language use & diasporic language contact
 

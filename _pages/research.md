@@ -4,13 +4,7 @@ permalink: /research/
 author_profile: false
 
 ---
-Please email pristina@sas.upenn.edu to request a copy. 
+If you would like a copy of any work listed below, please email pristina@sas.upenn.edu. 
 
-<section>
-    <h2>
-        
-    </h2>
-    <h2>Presentations</h2>
-</section>
-
+## Research Interests ## 
 

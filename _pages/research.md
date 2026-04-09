@@ -13,7 +13,9 @@ If you would like a copy of any work listed below, please email pristina@sas.upe
 - Mixed languages & Creolistics
 
 ## Presentations ## 
-Lexical-Selection Requirements are Stricter in Unilingual than Code-Switched Utterances. Talk presented at Rutgers Graduate Syposium (Interfaces in Languages: Insights from SLA & Bilingualism). Rutgers University, New Brunswick, United States. 17 April 2026. 
+Lexical-Selection Requirements are Stricter in Unilingual than Code-Switched Utterances. Poster presented at Boston Morphology Workshop, Boston University, Boston, United States. 1-2 May 2026. 
+
+Navigating conflicting requirements: L-selection in Indonesian-English bilinguals. Talk presented at Rutgers Graduate Syposium (Interfaces in Languages: Insights from SLA & Bilingualism), Rutgers University, New Brunswick, United States. 17 April 2026. 
 
 Contact-Induced Change of Betawi Suffix -nya/nye. Talk presented at Society of Pidgin and Creole Linguistics 2026, Virtual. 14-15 January 2026. 
 

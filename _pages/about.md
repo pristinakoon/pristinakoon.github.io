@@ -6,20 +6,17 @@ redirect_from:
   - /about/
 ---
 
-I am a [PhD student](https://www.ling.upenn.edu/people/pristina-koon) in the [University of Pennsylvania's Department of Linguistics](https://www.ling.upenn.edu/). I am affiliated with the [Language Contact and Cognition Lab](https://web.sas.upenn.edu/language-contact-cognition-lab/) and the [XMorph Lab](https://web.sas.upenn.edu/embick-lab/). My research interests are centered around morphology in multilinguals' grammars and, more broadly, language contact situations. I am co-advised by [Marlyse Baptista](https://web.sas.upenn.edu/marlysebaptista/) and [David Embick](https://www.ling.upenn.edu/~embick/). 
+I am a [PhD student](https://www.ling.upenn.edu/people/pristina-koon) in the [University of Pennsylvania's Department of Linguistics](https://www.ling.upenn.edu/). I am affiliated with the [Language Contact and Cognition Lab](https://web.sas.upenn.edu/language-contact-cognition-lab/) and the [XMorph Lab](https://web.sas.upenn.edu/embick-lab/). My co-advisors are [Marlyse Baptista](https://web.sas.upenn.edu/marlysebaptista/) and [David Embick](https://www.ling.upenn.edu/~embick/). 
 
 I can be best reached at pristina[at]sas[dot]upenn[dot]edu, or you can use this [link](mailto:pristina@sas.upenn.edu). 
 
-## Upcoming & Recent Events ## 
-- Poster at NWAV 53: Variation and Contact-Induced Change in Manado Possessives: What can varying syntactic judgements tell us about multilinguals' grammars?. Poster at NWAV 53, 5-7 November 2025, University of Michigan Ann Arbor, United States. 
-- Presentation at SLE 58: Expansion of Betawi ber--nya Nominaliation Under Prolonged Contact with Indonesian. Presentation at SLE 58 (Workshop 13: Morphological Boundaries in Creole Languages), 26-29 August 2025, Université Bordeaux Montaigne, Bordeaux, France.
-
 ## Research Interests ## 
+My research interests are centered around how morphemes are stored and processed in bilinguals' grammars. 
 - Language contact
 - Bi/multilingualism
 - Distributed Morphology
 - Morphological processing
-- Experimental morphosyntax 
+- Experimental syntax 
 - Mixed languages & Creolistics
 - Diasporic language use & diasporic language contact
 

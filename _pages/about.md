@@ -11,7 +11,8 @@ I am a [PhD student](https://www.ling.upenn.edu/people/pristina-koon) in the [Un
 I can be best reached at pristina[at]sas[dot]upenn[dot]edu, or you can use this [link](mailto:pristina@sas.upenn.edu). 
 
 ## Research Interests ## 
-My research interests are centered around how morphemes are stored and processed in bilinguals' grammars. 
+My research interests are centered around how morphemes are stored and processed in bilinguals' grammars. More specifically, I am interested in how speakers handle conflicting grammatical information and requirements. I work primarily with Indonesian and Korean. 
+
 - Language contact
 - Bi/multilingualism
 - Distributed Morphology

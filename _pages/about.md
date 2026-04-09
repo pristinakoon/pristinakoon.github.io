@@ -8,7 +8,7 @@ redirect_from:
 
 I am a [PhD student](https://www.ling.upenn.edu/people/pristina-koon) in the [University of Pennsylvania's Department of Linguistics](https://www.ling.upenn.edu/). I am affiliated with the [Language Contact and Cognition Lab](https://web.sas.upenn.edu/language-contact-cognition-lab/) and the [XMorph Lab](https://web.sas.upenn.edu/embick-lab/). I am co-advised by [Marlyse Baptista](https://web.sas.upenn.edu/marlysebaptista/) and [David Embick](https://www.ling.upenn.edu/~embick/). 
 
-My research is centered around how morphemes are stored and processed in bilinguals' grammars. More specifically, I focus on how bilinguals react to cross-linguistic conflicting grammatical information and requirements. Put in the broadest terms, I am interested in how speakers navigate utterances when more than one option is possible and what this behavior can tell us about the underlying representation of those options. I work primarily with speakers of Indonesian and Korean. 
+My research is centered around how morphemes are stored and processed in bilinguals' grammars. More specifically, I focus on how bilinguals react to cross-linguistic conflicting grammatical information and requirements. Put in the broadest terms, I am interested in how speakers navigate utterances when more than one option is possible and what this behavior can tell us about their underlying representations. I work primarily with speakers of Indonesian and Korean. 
 
 I can be best reached at pristina[at]sas[dot]upenn[dot]edu, or you can use this [link](mailto:pristina@sas.upenn.edu). 
 

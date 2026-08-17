@@ -13,6 +13,8 @@ If you would like a copy of any work listed below, please email pristina@sas.upe
 - Mixed languages & Creolistics
 
 ## Presentations ## 
+Bilinguals process l(exical)-selection violations differently in code-switching. Poster presented at Architectures and Mechanisms for Language Processing, Universität des Saarlandes, Saarbrücken, Germany. 2-4 September 2026. 
+
 Lexical-Selection Requirements are Stricter in Unilingual than Code-Switched Utterances. Poster presented at Boston Morphology Workshop, Boston University, Boston, United States. 1-2 May 2026. 
 
 Navigating conflicting requirements: L-selection in Indonesian-English bilinguals. Talk presented at Rutgers Graduate Syposium (Interfaces in Languages: Insights from SLA & Bilingualism), Rutgers University, New Brunswick, United States. 17 April 2026. 
